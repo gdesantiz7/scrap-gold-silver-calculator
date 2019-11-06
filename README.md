@@ -1,1 +1,1 @@
-# Gold-Silver-Calculator
+# Gold and Silver Calculator
