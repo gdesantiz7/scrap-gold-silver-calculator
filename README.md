@@ -8,11 +8,32 @@ Under the Function section, enter the gold_price_troy_ounce (gold spot price) an
 
 <img src="images/Screen Shot 2019-11-06 at 11.53.04 AM.png" width="260" height="40">
 
+
 Under the Output section, type gold_silver_calculator().  Hold shift and press enter to run the calculator.
 
 <img src="images/Screen Shot 2019-11-06 at 11.53.32 AM.png" width="200" height="23">
+
+
+Select a metal and press enter.
+
 <img src="images/Screen Shot 2019-11-06 at 11.53.44 AM.png" width="210" height="19">
+
+
+Select a weight unit and press enter.
+
 <img src="images/Screen Shot 2019-11-06 at 11.54.05 AM.png" width="210" height="19">
+
+
+Enter a weight amount and press enter.
+
 <img src="images/Screen Shot 2019-11-06 at 11.54.16 AM.png" width="150" height="18">
+
+
+Enter a purity and press enter.
+
 <img src="images/Screen Shot 2019-11-06 at 11.54.29 AM.png" width="150" height="18">
+
+
+The price of your scrap metal will be displayed in USD.
+
 <img src="images/Screen Shot 2019-11-06 at 11.54.39 AM.png" width="80" height="19">
