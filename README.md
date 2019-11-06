@@ -37,3 +37,6 @@ Enter a purity and press enter.
 The price of your scrap metal will be displayed in USD.
 
 <img src="images/Screen Shot 2019-11-06 at 11.54.39 AM.png" width="80" height="19">
+
+## Links
+* Live Spot Prices for Gold and Silver: [KITCO](https://www.kitco.com/market/index.html)
