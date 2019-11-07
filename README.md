@@ -9,14 +9,14 @@ Under the Output section, type gold_silver_calculator().  Hold shift and press e
 <img src="images/Screen Shot 2019-11-06 at 11.53.32 AM.png" width="200" height="23">
 
 
-Enter a price and press enter.
-
-<img src="images/Screen Shot 2019-11-07 at 3.53.55 PM.png" width="210" height="19">
-
-
 Select a metal and press enter.
 
 <img src="images/Screen Shot 2019-11-06 at 11.53.44 AM.png" width="210" height="19">
+
+
+Enter a price and press enter.
+
+<img src="images/Screen Shot 2019-11-07 at 3.53.55 PM.png" width="175" height="17">
 
 
 Select a weight unit and press enter.
